@@ -1,0 +1,1 @@
+cracks hash DSE algorithm
